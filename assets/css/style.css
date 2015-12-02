@@ -1,0 +1,310 @@
+.top {
+    border-radius:50%;
+    width:40px;
+    position:fixed;
+}
+
+#title {
+	font-family: 'Amatic SC';
+	font-weight: bold;
+	font-size: 70px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.picture {
+	border-radius:50%;
+	height: 300px;
+	width: 400px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#Menu {
+	font-family: 'Amatic SC';
+	text-align: center;
+	display:block;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+
+/*------*/
+
+#about {
+	background-color: #C8C8C8;
+	font-family: 'Amatic SC';
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom:10px;
+}
+
+#about-title {
+	font-size: 50px;
+	text-align: left;
+	margin-left: 50px;
+}
+
+#about-text {
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	line-height: 200%;
+	font-weight: 700;
+	margin-left: 100px;
+	margin-right: 200px;
+}
+
+#text2 {
+	padding-top: 10px;
+	margin-left: 50px;
+	font-size: 30px;
+}
+
+#text3 {
+	padding-top: 10px;
+	margin-left: 50px;
+	font-size: 30px;
+}
+/*----------*/
+
+#gallery {
+	font-family: 'Amatic SC';
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom:10px;
+}
+
+#gallery-title {
+	font-size: 50px;
+	text-align: left;
+	margin-left: 50px;
+}
+
+#gallery1 {
+	display: block;
+}
+.gallery1pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 150px;
+	margin-top:20px;
+}
+
+#gallery2 {
+	display: block;
+}
+.gallery2pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 10px;
+	margin-top:20px;
+}
+
+#gallery3 {
+	display: block;
+}
+.gallery3pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 10px;
+	margin-top:20px;
+}
+
+#gallery4 {
+	display: block;
+}
+.gallery4pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 150px;
+	margin-top:10px;
+}
+
+#gallery5 {
+	display: block;
+}
+.gallery5pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+}
+
+#gallery6 {
+	display: block;
+}
+.gallery6pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+}
+
+#gallery7 {
+	display: block;
+}
+.gallery7pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 150px;
+	margin-top:10px;
+}
+
+#gallery8 {
+	display: block;
+}
+.gallery8pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+	margin-bottom: 50px;
+}
+
+#gallery9 {
+	display: block;
+}
+.gallery9pic {
+	height: 300px;
+	width: 300px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: black;
+	display: block;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+}
+
+
+/*-------*/
+
+
+#Buttons {
+	display:block;
+	margin-top: 50px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.instagram {
+	margin-left: auto;
+	border-radius:50%;
+	width: 70px;
+	height: 70px;
+	display:inline-block;
+
+}
+
+.linkedin {
+	border-radius:50%;
+	width: 60px;
+	display:inline-block;
+	
+}
+
+.email {
+	border-radius:50%;
+	width: 60px;
+	display:inline-block;
+	
+}
+#instagram {
+	margin-left: 500px;
+	display:inline-block;
+	width: 70px;
+	height: 70px;
+
+}
+
+#linkedin {
+	margin-left: 15px;
+	display:inline-block;
+	width: 70px;
+	height: 70px;
+
+}
+
+#email {
+	margin-left: 15px;
+	display:inline-block;
+	width: 70px;
+	height: 70px;
+
+}
+
+
+#closing {
+	background-color: #C8C8C8;
+	font-family: 'Amatic SC';
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom:10px;
+	
+}
+
+#say-hello {
+	font-size: 50px;
+	text-align: left;
+	margin-left: 50px;
+}
+
+#insert {
+	font-size: 25px;
+    margin: 1em 0px;
+}
+
+#message {
+	font-size: 25px;
+    margin: 1em 0px;
+}
+
+#submit {
+	font-size: 25px;
+	margin: 1em 0px;
+}
